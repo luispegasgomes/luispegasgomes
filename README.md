@@ -8,29 +8,34 @@ Hi, I am Luís Gomes 👋
 
 - 📫 Contact me via email luispegasgomes@gmail.com
 
-## Front-End Tools
+## Front-End | Mobile Tools
 <div style="display: inline_block;"><br/>
-  <img align="center" style="margin: 1000px" alt="html5" src="https://cdn-icons-png.flaticon.com/512/174/174854.png" width="30"/>
-  <img align="center" alt="html5" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="30"/>
-  <img align="center" alt="html5" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="30"/>
-  <img align="center" alt="html5" src="https://cdn-icons-png.flaticon.com/512/1183/1183673.png" width="30"/>
-  <img align="center" alt="html5" src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png" width="30"/>
+  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F36?style=for-the-badge&logo=html5&logoColor=white" height="30"/>
+  <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white" height="30"/>
+  <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="30"/>
+  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="30"/>
+  <img align="center" alt="vuejs" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" height="30"/>
+  <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="30"/>
+  <img align="center" alt="reactnative" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="30"/>
 </div>
 
 ## Back-End | Database Tools
 <div style="display: inline_block"><br/>
-  <img align="center" alt="html5" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="30"/>
-  <img align="center" alt="html5" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" width="30"/>
-  <img align="center" alt="html5" src="https://seeklogo.com/images/S/sequelize-logo-9A5075DB9F-seeklogo.com.png" width="30"/>
-  <img align="center" alt="html5" src="https://www.pngall.com/wp-content/uploads/13/Mongodb-PNG-Image-HD.png" width="30"/>
-  <img align="center" alt="html5" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" width="30"/>
+  <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" height="30"/>
+  <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" height="30"/>
+  <img align="center" alt="express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" height="30"/>
+  <img align="center" alt="sequelize" src="https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue" height="30"/>
+  <img align="center" alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height="30"/>
+  <img align="center" alt="heroku" src="https://img.shields.io/badge/GraphQL-e535ab?style=for-the-badge&logo=GraphQL&logoColor=white" height="30"/>
+  <img align="center" alt="html5" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" height="30"/>
+  <img align="center" alt="jwt" src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink" height="30"/>
 </div>
 
 ## Other Tools
 <div style="display: inline_block"><br/>
-  <img align="center" alt="html5" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" width="30"/>
-  <img align="center" alt="html5" src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Figma-1-logo.png" width="30"/>
-  <img align="center" alt="html5" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/2101px-Adobe_XD_CC_icon.svg.png" width="30"/>
+  <img align="center" alt="selenium" src="https://img.shields.io/badge/Selenium-04b404?style=for-the-badge&logo=selenium&logoColor=white" height="30"/>
+  <img align="center" alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="30"/>
+  <img align="center" alt="adobexd" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" height="30"/>
 </div>
 
 
