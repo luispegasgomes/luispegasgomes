@@ -28,8 +28,8 @@ Hi, I am Luís Gomes 👋
   <img align="center" alt="RestApi" src="https://img.shields.io/badge/RestApi-1560bd?style=for-the-badge&logo=RestApi&logoColor=white" height="30"/>
   <img align="center" alt="sequelize" src="https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue" height="30"/>
   <img align="center" alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height="30"/>
-  <img align="center" alt="heroku" src="https://img.shields.io/badge/GraphQL-e535ab?style=for-the-badge&logo=GraphQL&logoColor=white" height="30"/>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" height="30"/>
+  <img align="center" alt="graphql" src="https://img.shields.io/badge/GraphQL-e535ab?style=for-the-badge&logo=GraphQL&logoColor=white" height="30"/>
+  <img align="center" alt="heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" height="30"/>
   <img align="center" alt="jwt" src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink" height="30"/>
 </div>
 
