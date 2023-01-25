@@ -8,6 +8,7 @@ Hi, I am Luís Gomes 👋
 
 - 📫 Contact me via email luispegasgomes@gmail.com
 
+
 ## Front-End | Mobile Tools
 <div style="display: inline_block;"><br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F36?style=for-the-badge&logo=html5&logoColor=white" height="30"/>
@@ -24,6 +25,7 @@ Hi, I am Luís Gomes 👋
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" height="30"/>
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" height="30"/>
   <img align="center" alt="express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" height="30"/>
+  <img align="center" alt="RestApi" src="https://img.shields.io/badge/RestApi-1560bd?style=for-the-badge&logo=RestApi&logoColor=white" height="30"/>
   <img align="center" alt="sequelize" src="https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue" height="30"/>
   <img align="center" alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height="30"/>
   <img align="center" alt="heroku" src="https://img.shields.io/badge/GraphQL-e535ab?style=for-the-badge&logo=GraphQL&logoColor=white" height="30"/>
@@ -33,7 +35,11 @@ Hi, I am Luís Gomes 👋
 
 ## Other Tools
 <div style="display: inline_block"><br/>
+  <img align="center" alt="vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="30"/>
   <img align="center" alt="selenium" src="https://img.shields.io/badge/Selenium-04b404?style=for-the-badge&logo=selenium&logoColor=white" height="30"/>
+  <img align="center" alt="swagger" src="https://img.shields.io/badge/Swagger-709d04?style=for-the-badge&logo=swagger&logoColor=white" height="30"/>
+  <img align="center" alt="postman" src="https://img.shields.io/badge/Postman-ff6c38?style=for-the-badge&logo=postman&logoColor=white" height="30"/>
+  <img align="center" alt="astudio" src="https://img.shields.io/badge/Android_Studio-4086f4?style=for-the-badge&logo=android-studio&logoColor=white" height="30"/>
   <img align="center" alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="30"/>
   <img align="center" alt="adobexd" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" height="30"/>
 </div>
