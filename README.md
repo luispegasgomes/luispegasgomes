@@ -36,7 +36,6 @@ Hi, I am Luís Gomes 👋
 ## Other Tools
 <div style="display: inline_block"><br/>
   <img align="center" alt="vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="30"/>
-  <img align="center" alt="selenium" src="https://img.shields.io/badge/Selenium-04b404?style=for-the-badge&logo=selenium&logoColor=white" height="30"/>
   <img align="center" alt="swagger" src="https://img.shields.io/badge/Swagger-709d04?style=for-the-badge&logo=swagger&logoColor=white" height="30"/>
   <img align="center" alt="postman" src="https://img.shields.io/badge/Postman-ff6c38?style=for-the-badge&logo=postman&logoColor=white" height="30"/>
   <img align="center" alt="astudio" src="https://img.shields.io/badge/Android_Studio-4086f4?style=for-the-badge&logo=android-studio&logoColor=white" height="30"/>
