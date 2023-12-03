@@ -2,7 +2,7 @@ Hi, I am Luís Gomes 👋
 
 - 🔭 I’m currently working on ReactJs and React Native project inserted in the degree of technologies and information systems for the web that I'm finishing.
 
-- 🌱 I'm currently learning Typescript to improve my experience as a developer.
+- 🌱 I'm currently learning C# to improve my experience as a developer.
 
 - 👯 I am practically entering the professional world and I intend to become a Front-end, Back-end or Full-Stack developer. The language I master the most is javascript, but I've worked with other languages and I intend to broaden my knowledge.
 
